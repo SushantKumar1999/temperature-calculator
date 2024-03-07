@@ -1,6 +1,5 @@
 # Temperature Conversion Web App
 
-![Temperature Conversion Web App](screenshot.png)
 
 ## Overview
 
