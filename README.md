@@ -23,7 +23,7 @@ This web application allows users to convert temperatures between Celsius and Fa
 1. **Clone the Repository:**
 
     ```bash
-    git clone https://github.com/your-username/temperature-conversion-web-app.git
+    git clone https://github.com/SushantKumar1999/temperature-conversion-web-app.git
     ```
 
 2. **Open in Browser:**
